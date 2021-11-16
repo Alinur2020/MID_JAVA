@@ -1,3 +1,3 @@
 # MID_JAVA
 very simple simulation code
-![Screenshots](\ScreenShot_20211116131049.png)
+![Screenshots](ScreenShots\ScreenShot_20211116131049.png)
